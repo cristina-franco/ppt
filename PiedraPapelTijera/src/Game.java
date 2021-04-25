@@ -54,7 +54,7 @@ public class Game {
 			return false;
 		}
 
-		if (move.getMove().equals("AYUDA")) {
+		if (move.getMove().equals("HELP")) {
 			printHelp();
 			return true;
 		}
