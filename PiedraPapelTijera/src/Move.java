@@ -26,4 +26,3 @@ public class Move{
 	    return MoveWords.checkWinner(this.move, other.getMove());
     }  
 }
-
